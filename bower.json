@@ -1,0 +1,17 @@
+{
+  "name": "mrjeff",
+  "authors": [
+    "Javi Rodriguez Mac <jarodllo@gmail.com>"
+  ],
+  "description": "example",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
